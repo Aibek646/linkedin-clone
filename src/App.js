@@ -9,9 +9,9 @@ function App() {
       {/* App Body */}
       <div className="app__body">
         <Sidebar />
+        <Feed />
       </div>
 
-      <Feed />
       {/* Widgets */}
     </div>
   );
