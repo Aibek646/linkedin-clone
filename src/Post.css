@@ -28,5 +28,6 @@
 }
 
 .post__buttons {
+  justify-content: space-evenly;
   display: flex;
 }
